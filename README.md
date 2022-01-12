@@ -1,4 +1,4 @@
 # sushi_game
-a catch falling objects game
+a catching falling objects game
 
 ![](sushi_game.gif)
